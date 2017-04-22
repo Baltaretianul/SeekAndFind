@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<User>
+  <PersonalData>
+    <Name>
+      <LastName />
+      <FirstName />
+    </Name>
+    <ContactInfo>
+      <Email />
+      <Tel />
+      <LinkedIn />
+    </ContactInfo>
+    <LookingFor>
+      <Description />
+      <Field />
+    </LookingFor>
+  </PersonalData>
+  <Experience>
+    <Position />
+    <CompanyName />
+    <DateStart />
+    <DateStop />
+    <Description />
+  </Experience>
+  <Studies>
+    <Faculty />
+    <DateStart />
+    <DateStop />
+    <GradeAVG />
+  </Studies>
+  <PersonalProjAch>
+    <Title />
+    <Description />
+  </PersonalProjAch>
+  <Skills>
+    <Skill1 />
+    <Skill2 />
+    <Skill3 />
+  </Skills>
+  <Languages>
+    <Language1 />
+    <Language2 />
+  </Languages>
+  <CV />
+</User>

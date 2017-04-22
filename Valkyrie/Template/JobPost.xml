@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JobPost>
+  <CompanyData>
+    <Name />
+    <Email />
+  </CompanyData>
+  <Job>
+    <Title />
+    <Description />
+    <Location />
+    <Req>
+      <Skills>
+        <Skill1 />
+        <Skill2 />
+        <Skill3 />
+      </Skills>
+      <Languages>
+        <Language1 />
+        <Language2 />
+      </Languages>
+      <Faculty />
+      <Field />
+    </Req>
+  </Job>
+</JobPost>

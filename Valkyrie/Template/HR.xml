@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HR>
+  <PersonalData>
+    <Name>
+      <FirstName />
+      <LastName />
+    </Name>
+    <ContactInfo>
+      <Email />
+      <Tel />
+      <LinkedIn />
+    </ContactInfo>
+    <LookingFor>
+      <Description />
+      <Field />
+    </LookingFor>
+  </PersonalData>
+  <Company>
+    <Name />
+    <Email />
+  </Company>
+  <JobPostList />
+  <NotificationList />
+</HR>
